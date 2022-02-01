@@ -66,3 +66,27 @@ https://wds.ecsxs.com/216537.json
 
 11.2
 https://wds.ecsxs.com/216731.json
+
+
+
+### 其他接口：（有和上面重复）
+https://maoys.c1n.cn
+http://gg.gg/898900
+http://www.nihaogege.com/cat/yl.js
+https://pastebin.com/raw/FuMsfJWw
+https://tool.wotianna.com/mysjk.json
+https://wds.ecsxs.com/213821.json
+https://pglblb-1307091970.cos.ap-guangzhou.myqcloud.com/88.json
+https://pastebin.com/raw/d7spQMWr
+https://wds.ecsxs.com/212757.json
+https://wds.ecsxs.com/213679.json
+https://c1n.cn/cat
+http://gg.gg/cccvvv
+https://pastebin.com/raw/izVq5sXv
+https://wds.ecsxs.com/213013.json
+https://c1n.cn/mao
+https://api.jsonbin.io/b/618753564a56fb3dee0a896d
+https://wds.ecsxs.com/216537.json
+https://gitlab.com/GDaily1/cat_tv/-/raw/main/zh_tw_2.0.json
+https://wds.ecsxs.com/213766.txt
+https://wds.ecsxs.com/213313.json
