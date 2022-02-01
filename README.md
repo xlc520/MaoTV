@@ -4,6 +4,10 @@
 
 **国内镜像**：
 
+**guangfang**
+- https://raw.fastgit.org/xlc520/MaoTV/main/guanfang.json
+- https://cdn.jsdelivr.net/gh/xlc520/MaoTV@main/guanfang.json
+
 **mao.json**
 - fastgit：https://raw.fastgit.org/xlc520/MaoTV/main/mao.json
 - staticaly：https://cdn.staticaly.com/gh/xlc520/MaoTV@main/mao.json
