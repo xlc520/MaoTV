@@ -1,3 +1,5 @@
+### [BiuBiuTV](./BiuBiuTV.md)（支持添加片源接口）
+
 # MaoTV
 
 ### 猫影视资源接口
@@ -5,10 +7,12 @@
 **国内镜像**：
 
 **guangfang**
+
 - https://raw.fastgit.org/xlc520/MaoTV/main/guanfang.json
 - https://cdn.jsdelivr.net/gh/xlc520/MaoTV@main/guanfang.json
 
 **mao.json**
+
 - fastgit：https://raw.fastgit.org/xlc520/MaoTV/main/mao.json
 - staticaly：https://cdn.staticaly.com/gh/xlc520/MaoTV@main/mao.json
 
