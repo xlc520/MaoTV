@@ -6,7 +6,7 @@
 
 **国内镜像**：
 
-**guangfang**
+**官方**
 
 - https://raw.fastgit.org/xlc520/MaoTV/main/guanfang.json
 - https://cdn.jsdelivr.net/gh/xlc520/MaoTV@main/guanfang.json
@@ -16,14 +16,20 @@
 - fastgit：https://raw.fastgit.org/xlc520/MaoTV/main/mao.json
 - staticaly：https://cdn.staticaly.com/gh/xlc520/MaoTV@main/mao.json
 
+**mao0208.json**
+
+- https://raw.fastgit.org/xlc520/MaoTV/main/mao0208.json
+- https://cdn.jsdelivr.net/gh/xlc520/MaoTV@main/mao0208.json
+
 **212757.json**
+
 - https://raw.fastgit.org/xlc520/MaoTV/main/212757.json
 
 **213013.json**
 - https://raw.fastgit.org/xlc520/MaoTV/main/213013.json
 
-
 ### 下载
+
 猫影视TV208版：片源接口大替换！稳定接口！能用才是王道~
 https://pan.lanzoui.com/b0c3cb92f
 
@@ -32,6 +38,7 @@ https://pan.lanzoui.com/b0c3cb92f
 设置——当前配置接口输入
 
 ### 接口
+
 2.0.8版本专用接口：
 爬虫源
 https://wds.ecsxs.com/212757.json
