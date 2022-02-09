@@ -11,15 +11,20 @@
 - https://raw.fastgit.org/xlc520/MaoTV/main/guanfang.json
 - https://cdn.jsdelivr.net/gh/xlc520/MaoTV@main/guanfang.json
 
-**mao.json**
+**mao0209.json**
 
-- fastgit：https://raw.fastgit.org/xlc520/MaoTV/main/mao.json
-- staticaly：https://cdn.staticaly.com/gh/xlc520/MaoTV@main/mao.json
+- https://raw.fastgit.org/xlc520/MaoTV/main/mao0209.json
+- https://cdn.jsdelivr.net/gh/xlc520/MaoTV@main/mao0209.json
 
 **mao0208.json**
 
 - https://raw.fastgit.org/xlc520/MaoTV/main/mao0208.json
 - https://cdn.jsdelivr.net/gh/xlc520/MaoTV@main/mao0208.json
+
+**mao.json**
+
+- fastgit：https://raw.fastgit.org/xlc520/MaoTV/main/mao.json
+- staticaly：https://cdn.staticaly.com/gh/xlc520/MaoTV@main/mao.json
 
 **212757.json**
 
@@ -144,3 +149,55 @@ https://wds.ecsxs.com/213766.txt
 
 https://wds.ecsxs.com/213313.json
 
+---
+
+------
+
+## 猫影视配置编辑器：
+
+https://catvod.github.io/CatVodTVJsonEditor/
+
+## 播放源
+
+猫影视接口搜集：http://ich.vaiwan.com/raw/share/maotv-sj.txt
+
+自动同步已更新（免翻流畅访问）：https://sub.ytzb.workers.dev/hstsws008/dizhi/-/raw/main/2345.json
+
+猫影视接口
+https://pastebin.com/raw/d7spQMWr
+
+https://gitlab.com/hstsws008/dizhi/-/raw/main/2345.json
+
+https://c1n.cn/mao
+
+https://api.jsonbin.io/b/618753564a56fb3dee0a896d
+
+https://wds.ecsxs.com/216537.json
+
+https://gitlab.com/GDaily1/cat_tv/-/raw/main/zh_tw_2.0.json
+
+https://wds.ecsxs.com/213766.txt
+
+https://wds.ecsxs.com/213313.json
+
+https://wds.ecsxs.com/212757.json
+
+https://vipmods.net/texthost/raw/maojson-77
+
+https://91io.cn/s/9JoqbtO/666.txt
+
+https://91io.cn/s/pp2ADU9/Mao.txt
+
+https://wds.ecsxs.com/213679.json
+
+https://vipmods.net/texthost/raw/123-77197
+
+https://vipmods.net/texthost/raw/888-85395
+
+https://vipmods.net/texthost/raw/123-17492
+
+https://vipmods.net/texthost/raw/888-80906
+
+https://pastebin.com/raw/FuMsfJWw
+
+https://tool.wotianna.com/mysjk.json
