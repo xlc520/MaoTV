@@ -48,7 +48,7 @@
 
 ### 接口
 
-2.0.9版本专用接口：
+2.1.0版本专用接口：
 
 爬虫源
 
@@ -63,7 +63,7 @@ https://wds.ecsxs.com/213679.json
 https://wds.ecsxs.com/213766.txt
 
 
-2.0.8版本以下专用接口：
+低版本以下专用接口：
 
 https://wds.ecsxs.com/212757.json
 
