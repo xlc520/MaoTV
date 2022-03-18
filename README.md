@@ -215,3 +215,9 @@ https://vipmods.net/texthost/raw/888-80906
 https://pastebin.com/raw/FuMsfJWw
 
 https://tool.wotianna.com/mysjk.json
+
+
+
+### Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/anji-plus/captcha.svg)](https://starchart.cc/anji-plus/captcha)
