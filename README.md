@@ -220,4 +220,5 @@ https://tool.wotianna.com/mysjk.json
 
 ### Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/anji-plus/captcha.svg)](https://starchart.cc/anji-plus/captcha)
+[![Stargazers over time](https://starchart.cc/xlc520/MaoTV.svg)](https://starchart.cc/xlc520/MaoTV)
+
