@@ -8,10 +8,18 @@
 
 **国内镜像**：
 
+**猫群自维护源**：
+- https://raw.fastgit.org/xlc520/MaoTV/main/maoqun.json
+- http://pglblb.test.upcdn.net/mao.json
+
 **官方**
 
 - https://raw.fastgit.org/xlc520/MaoTV/main/guanfang.json
 - https://cdn.jsdelivr.net/gh/xlc520/MaoTV@main/guanfang.json
+
+**212757.json**
+
+- https://raw.fastgit.org/xlc520/MaoTV/main/212757.json
 
 **mao0209.json**
 
@@ -28,14 +36,30 @@
 - fastgit：https://raw.fastgit.org/xlc520/MaoTV/main/mao.json
 - staticaly：https://cdn.staticaly.com/gh/xlc520/MaoTV@main/mao.json
 
-**212757.json**
-
-- https://raw.fastgit.org/xlc520/MaoTV/main/212757.json
-
 **213013.json**
 - https://raw.fastgit.org/xlc520/MaoTV/main/213013.json
 
+### [下载](https://xlc.lanzouh.com/b0cs3tmid)
+>密码:98zx
+
 ### 更新
+「猫影视TV210V2版」【更新日志】
+
+        适配部分超宽屏手机；
+
+        增加首字母联想接口； 
+
+        优化视频播放进度记录； 
+
+        优化爬虫jar加载速度； 
+
+        修复快退到0秒无法重头开始问题； 
+
+        修复列表页部分情况TV端操作无法加；
+
+        载下一页问题；
+
+
 
 「猫影视TV2.1.0全新版」官方版本次更新的核心内容有如下几个：
 
