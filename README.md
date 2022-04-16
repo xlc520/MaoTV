@@ -80,9 +80,39 @@
 
 设置——当前配置接口输入
 
-### 接口
+### 接口(可能会有重复，自行选择)
 
-2.1.0版本专用接口：
+
+2105专用接口(图床加密接口)
+https://catb5.c1n.cn
+
+https://wklb.coding.net/p/c/d/bktx123/git/raw/master/cat.bmp?download=false
+
+**2.1.0V3版接口：**
+**加密接口：**
+https://wklb.coding.net/p/c/d/bktx123/git/raw/master/cat.json
+
+https://ak9.cc/9bHgex
+
+**明码接口**
+https://wds.ecsxs.com/212010.txt（新增）
+
+https://pastebin.com/raw/7sqJfwpx（新增）
+
+https://mitv.coding.net/p/miys/d/miys/git/raw/master/m.json（新增if101、达达、剧白白）
+
+http://pglblb.test.upcdn.net/mao.json（新增，搜狗、蓝光、星球爬虫源）
+
+https://tool.wotianna.com/mysjk.json
+
+https://wds.ecsxs.com/213821.json
+
+https://wds.ecsxs.com/213679.json
+
+https://wds.ecsxs.com/213766.txt
+
+
+**2.1.0版本专用接口：**
 
 爬虫源
 
