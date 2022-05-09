@@ -4,40 +4,47 @@
 
 - [使用方法](./usage.md)
 
+>2022年5月9日 重新分类目录，失效请重新使用下方最新地址，可以GitHub的源或者第三方地址，GitHub只是做保存分流搬运。
+
 ### 猫影视资源接口
 
 **国内镜像**：
 
+**5月9日**
+
+- https://raw.fastgit.org/xlc520/MaoTV/main/mao/220508.json
+- https://raw.fastgit.org/xlc520/MaoTV/main/mao/220507.json
+  
 **猫群自维护源**：
-- https://raw.fastgit.org/xlc520/MaoTV/main/maoqun.json
+- https://raw.fastgit.org/xlc520/MaoTV/main/mao/maoqun.json
 - http://pglblb.test.upcdn.net/mao.json
 
 **官方**
 
-- https://raw.fastgit.org/xlc520/MaoTV/main/guanfang.json
-- https://cdn.jsdelivr.net/gh/xlc520/MaoTV@main/guanfang.json
+- https://raw.fastgit.org/xlc520/MaoTV/main/mao/guanfang.json
+- https://cdn.jsdelivr.net/gh/xlc520/MaoTV@main/mao/guanfang.json
 
 **212757.json**
 
-- https://raw.fastgit.org/xlc520/MaoTV/main/212757.json
+- https://raw.fastgit.org/xlc520/MaoTV/main/mao/212757.json
 
 **mao0209.json**
 
-- https://raw.fastgit.org/xlc520/MaoTV/main/mao0209.json
-- https://cdn.jsdelivr.net/gh/xlc520/MaoTV@main/mao0209.json
+- https://raw.fastgit.org/xlc520/MaoTV/main/mao/mao0209.json
+- https://cdn.jsdelivr.net/gh/xlc520/MaoTV@main/mao/mao0209.json
 
 **mao0208.json**
 
-- https://raw.fastgit.org/xlc520/MaoTV/main/mao0208.json
-- https://cdn.jsdelivr.net/gh/xlc520/MaoTV@main/mao0208.json
+- https://raw.fastgit.org/xlc520/MaoTV/main/mao/mao0208.json
+- https://cdn.jsdelivr.net/gh/xlc520/MaoTV@main/mao/mao0208.json
 
 **mao.json**
 
-- fastgit：https://raw.fastgit.org/xlc520/MaoTV/main/mao.json
-- staticaly：https://cdn.staticaly.com/gh/xlc520/MaoTV@main/mao.json
+- fastgit：https://raw.fastgit.org/xlc520/MaoTV/main/mao/mao.json
+- staticaly：https://cdn.staticaly.com/gh/xlc520/MaoTV@main/mao/mao.json
 
 **213013.json**
-- https://raw.fastgit.org/xlc520/MaoTV/main/213013.json
+- https://raw.fastgit.org/xlc520/MaoTV/main/mao/213013.json
 
 ### [下载](https://xlc.lanzouh.com/b0cs3tmid)
 >密码:98zx
@@ -52,44 +59,61 @@
         内置壁纸更新
 
 
-「猫影视TV210V2版」【更新日志】
-
-        适配部分超宽屏手机；
-
-        增加首字母联想接口； 
-
-        优化视频播放进度记录； 
-
-        优化爬虫jar加载速度； 
-
-        修复快退到0秒无法重头开始问题； 
-
-        修复列表页部分情况TV端操作无法加；
-
-        载下一页问题；
-
-
-
-「猫影视TV2.1.0全新版」官方版本次更新的核心内容有如下几个：
-
-- 1、设置界面修改为了左右排列形式；
-
-- 2、新增聚合搜功能；以「212757」片源接口为例，可智能检索78个优质片源；
-
-- 3、覆盖旧版安装新版，可以保留旧版设置好的历史配置；
-
-
-
-- 猫影视TV209110全新版：新增聚搜模式！可智能检索片源！
-
-- 猫影视TV209版：片源接口大替换！稳定接口！能用才是王道~
-
 
 猫影视更新后空壳解决方案
 
 设置——当前配置接口输入
 
 ### 接口(可能会有重复，自行选择)
+
+【官方流出的接口】
+新版本猫专用接口：
+
+https://c1n.cn/cat
+
+http://gg.gg/cat666
+
+https://wds.ecsxs.com/224266.json
+
+短链接：
+https://mkk.c1n.cn
+
+http://maoys.c1n.cn
+
+猫群规则：
+
+https://pglblb.coding.net/p/a/d/c/git/raw/master/51
+
+5月8日新增规则
+
+https://shuyuan.miaogongzi.net/shuyuan/1652103441.json
+
+https://shuyuan.miaogongzi.net/shuyuan/1652114162.json
+
+猫影视最新接口（20220502）：
+
+https://raw.iqiq.io/airwooo/mt/main/Ma/m1.txt
+
+https://raw.iqiq.io/airwooo/mt/main/Ma/m2.txt
+
+https://raw.iqiq.io/airwooo/mt/main/Ma/m3.txt
+
+https://raw.iqiq.io/airwooo/mt/main/Ma/m4.txt
+
+明码接口
+
+https://wds.ecsxs.com/224266.txt（新增）
+
+https://wds.ecsxs.com/223942.txt（新增）
+
+https://pastebin.com/raw/7sqJfwpx（新增）
+
+https://wds.ecsxs.com/213821.json
+
+https://wds.ecsxs.com/213679.json
+
+https://wds.ecsxs.com/213766.txt
+
 
 
 2105专用接口(图床加密接口)
@@ -279,6 +303,38 @@ https://pastebin.com/raw/FuMsfJWw
 
 https://tool.wotianna.com/mysjk.json
 
+
+「猫影视TV210V2版」【更新日志】
+
+        适配部分超宽屏手机；
+
+        增加首字母联想接口； 
+
+        优化视频播放进度记录； 
+
+        优化爬虫jar加载速度； 
+
+        修复快退到0秒无法重头开始问题； 
+
+        修复列表页部分情况TV端操作无法加；
+
+        载下一页问题；
+
+
+
+「猫影视TV2.1.0全新版」官方版本次更新的核心内容有如下几个：
+
+- 1、设置界面修改为了左右排列形式；
+
+- 2、新增聚合搜功能；以「212757」片源接口为例，可智能检索78个优质片源；
+
+- 3、覆盖旧版安装新版，可以保留旧版设置好的历史配置；
+
+
+
+- 猫影视TV209110全新版：新增聚搜模式！可智能检索片源！
+
+- 猫影视TV209版：片源接口大替换！稳定接口！能用才是王道~
 
 
 ### Stargazers over time
