@@ -1,7 +1,8 @@
 ### [BiuBiuTV](./BiuBiuTV.md)（支持添加片源接口）
 
 # MaoTV
-
+### [下载](https://xlc.lanzouh.com/b0cs3tmid)
+>密码:98zx
 - [使用方法](./usage.md)
 
 >2022年5月9日 重新分类目录，失效请重新使用下方最新地址，可以GitHub的源或者第三方地址，GitHub只是做保存分流搬运。
@@ -14,10 +15,16 @@
 
 - https://raw.fastgit.org/xlc520/MaoTV/main/mao/220508.json
 - https://raw.fastgit.org/xlc520/MaoTV/main/mao/220507.json
-  
-**猫群自维护源**：
-- https://raw.fastgit.org/xlc520/MaoTV/main/mao/maoqun.json
-- http://pglblb.test.upcdn.net/mao.json
+
+**5月2日**
+
+https://fastly.jsdelivr.net/gh/xlc520/MaoTV@main/mao/m1.txt
+
+https://fastly.jsdelivr.net/gh/xlc520/MaoTV@main/mao/m2.txt
+
+https://fastly.jsdelivr.net/gh/xlc520/MaoTV@main/mao/m3.txt
+
+https://fastly.jsdelivr.net/gh/xlc520/MaoTV@main/mao/m4.txt
 
 **官方**
 
@@ -46,8 +53,6 @@
 **213013.json**
 - https://raw.fastgit.org/xlc520/MaoTV/main/mao/213013.json
 
-### [下载](https://xlc.lanzouh.com/b0cs3tmid)
->密码:98zx
 
 ### 更新
 「猫影视TV2110版」CatVodTV_v2.1.1.0_20220428165932（正式版本)
@@ -90,15 +95,6 @@ https://shuyuan.miaogongzi.net/shuyuan/1652103441.json
 
 https://shuyuan.miaogongzi.net/shuyuan/1652114162.json
 
-猫影视最新接口（20220502）：
-
-https://raw.iqiq.io/airwooo/mt/main/Ma/m1.txt
-
-https://raw.iqiq.io/airwooo/mt/main/Ma/m2.txt
-
-https://raw.iqiq.io/airwooo/mt/main/Ma/m3.txt
-
-https://raw.iqiq.io/airwooo/mt/main/Ma/m4.txt
 
 明码接口
 
