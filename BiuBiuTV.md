@@ -13,9 +13,14 @@ https://biubiuhd.lanzout.com/b02isykwf
 TV数据演示接口
 主页接口：
 
-- https://raw.fastgit.org/xlc520/MaoTV/main/BiuIndex.json
-- https://cdn.jsdelivr.net/gh/xlc520/MaoTV@main/BiuIndex.json
+- https://raw.fastgit.org/xlc520/MaoTV/main/biu/BiuIndex.json
+- https://raw.fastgit.org/xlc520/MaoTV/main/biu/BiuTv.txt
+- https://raw.fastgit.org/xlc520/MaoTV/main/biu/BiuTv1.txt
+- https://raw.fastgit.org/xlc520/MaoTV/main/biu/BiuTv2.txt
+- https://raw.fastgit.org/xlc520/MaoTV/main/biu/BiuTv3.txt
+- https://cdn.jsdelivr.net/gh/xlc520/MaoTV@main/biu/BiuIndex.json
 - http://116.62.110.252/cs.json
+- https://raw.fastgit.org/xlc520/MaoTV/main/biu/zhibo.txt
 
 直链解析接口：https://jhpc.manduhu.com/j1217.php?url=
 
