@@ -1,5 +1,10 @@
 ### [BiuBiuTV](./BiuBiuTV.md)（支持添加片源接口）
 
+博客：[https://blog.ciberviler.top](https://blog.ciberviler.top)
+ - [https://github.com/xlc520/xlc520.github.io](https://github.com/xlc520/xlc520.github.io)
+
+GitHub：[https://github.com/xlc520](https://github.com/xlc520)
+
 # MaoTV
 ### [下载](https://xlc.lanzouh.com/b0cs3tmid)
 >密码:98zx
