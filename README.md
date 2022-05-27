@@ -56,8 +56,14 @@ https://fastly.jsdelivr.net/gh/xlc520/MaoTV@main/mao/m4.txt
 - staticaly：https://cdn.staticaly.com/gh/xlc520/MaoTV@main/mao/mao.json
 
 **213013.json**
+
 - https://raw.fastgit.org/xlc520/MaoTV/main/mao/213013.json
 
+**七七（加密）**
+
+- http://mtw.so/5Goqqe
+
+- https://raw.fastgit.org/xlc520/MaoTV/main/mao/pglblb.txt
 
 ### 更新
 
@@ -317,17 +323,17 @@ https://tool.wotianna.com/mysjk.json
 「猫影视TV210V2版」【更新日志】
 
         适配部分超宽屏手机；
-
+    
         增加首字母联想接口； 
-
+    
         优化视频播放进度记录； 
-
+    
         优化爬虫jar加载速度； 
-
+    
         修复快退到0秒无法重头开始问题； 
-
+    
         修复列表页部分情况TV端操作无法加；
-
+    
         载下一页问题；
 
 
