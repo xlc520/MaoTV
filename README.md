@@ -357,3 +357,4 @@ https://tool.wotianna.com/mysjk.json
 
 [![Stargazers over time](https://starchart.cc/xlc520/MaoTV.svg)](https://starchart.cc/xlc520/MaoTV)
 
+![Alt](https://repobeats.axiom.co/api/embed/00b36f9a93d93e698d68898669cc316cde32e17b.svg "Repobeats analytics image")
