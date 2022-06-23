@@ -1,3 +1,7 @@
+由于一些倒卖狗和我不知道啥的人，以及种种原因，官方已经停更，所以各位先找其他的软件用吧！
+
+https://github.com/xlc520/MaoTV/issues/8#issuecomment-1163830336
+
 ### [BiuBiuTV](./BiuBiuTV.md)（支持添加片源接口）
 
 博客：[https://blog.ciberviler.top](https://blog.ciberviler.top)
@@ -6,7 +10,9 @@
 GitHub：[https://github.com/xlc520](https://github.com/xlc520)
 
 # MaoTV
+
 ### [下载](https://xlc.lanzouh.com/b0cs3tmid)
+
 >密码:98zx
 - [使用方法](./usage.md)
 
